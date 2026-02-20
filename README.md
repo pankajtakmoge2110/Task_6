@@ -31,7 +31,7 @@ A simple and responsive contact form built using HTML, CSS, and JavaScript with 
 
  
 ## Screenshot
-![alt text](image.png)
+c:\Users\PANKAJ\OneDrive\Pictures\Screenshots\Screenshot 2026-02-20 182018.png
 
 
 ## 📸 How It Works
