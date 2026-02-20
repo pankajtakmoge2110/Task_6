@@ -30,9 +30,9 @@ A simple and responsive contact form built using HTML, CSS, and JavaScript with 
  │── script.js
 
  
-## Screenshot
-![screenshot](<Screenshot 2026-02-20 182018.png>)
+## 📸 Screenshot
 
+![Contact Form](./image.png)
 
 ## 📸 How It Works
 
